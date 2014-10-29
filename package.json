@@ -1,0 +1,31 @@
+{
+  "name": "makers-ide-coffee",
+  "version": "1.0.0",
+  "description": "Makers-ide in CoffeeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MadameSardine/makers-ide-coffee.git"
+  },
+  "author": "Alex and Sandrine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadameSardine/makers-ide-coffee/issues"
+  },
+  "homepage": "https://github.com/MadameSardine/makers-ide-coffee",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.0.1",
+    "zombie": "^2.1.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "ejs": "^1.0.0",
+    "express": "^4.10.1",
+    "express-ejs-layouts": "^1.1.0",
+    "socket.io": "^1.2.0"
+  }
+}

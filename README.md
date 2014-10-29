@@ -1,0 +1,1 @@
+Rewrite Makers-ide app with CoffeeScript
